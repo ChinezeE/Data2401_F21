@@ -1,7 +1,5 @@
-# Data2401_F20
-An Example Repository for Data 2401 in Fall 2020
+Do the following:
 
-Go to the "In Class" folder for instructions on your assignment.
-Bacon, Egg, and Cheese Mcgriddle
-Hashbrown
-Water
+bacon egg and cheese mcgriddle
+hashbrown
+water
